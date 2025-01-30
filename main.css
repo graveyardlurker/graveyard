@@ -27,3 +27,14 @@ html, body {
 #story1:hover {
 	border: 2px solid gray;
 }
+
+#story2 {
+	padding: 10px 10px 10px 10px;
+	margin-bottom: 15px;
+	border: 2px solid white;
+	border-radius: 20px;
+}
+
+#story2:hover {
+	border: 2px solid gray;
+}
